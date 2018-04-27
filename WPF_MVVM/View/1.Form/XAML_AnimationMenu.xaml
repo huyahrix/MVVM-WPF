@@ -1,0 +1,232 @@
+﻿<Window x:Class="WPF___XAML___Material_Design.XAML_AnimationMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Intro" Height="600" Width="1024" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Storyboard x:Key="OpenMenu">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="GridMain">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="250"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="GridMain">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="50"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="DridMenu">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="250"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="DridMenu">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="CloseMenu">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="GridMain">
+                <EasingDoubleKeyFrame KeyTime="0" Value="250"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="GridMain">
+                <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="DridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="250"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="DridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource CloseMenu}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid Background="#FF8A3099">
+        <StackPanel x:Name="DridMenu" Width="250"  VerticalAlignment="Top" HorizontalAlignment="Left"  Orientation="Vertical" Margin="-250,0,0,0" RenderTransformOrigin="0.5,0.5">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,25" >
+                <Button  Width="60" Height="60" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}">
+                    <materialDesign:PackIcon Kind="Settings" Width="40" Height="40" Margin="10"/>
+                </Button>
+                <Ellipse Height="80" Width="80" Visibility="Visible">
+                    <Ellipse.Fill >
+                        <ImageBrush ImageSource="Assets/o2256597.png" Stretch="UniformToFill"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Button Width=" 60" Height=" 60" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}">
+                    <materialDesign:PackIcon Kind="InformationOutline" Width="40" Height="40" Margin="10"    />
+                </Button>
+            </StackPanel>
+            <ListView>
+                <ListViewItem x:Name="listViewItem" Height="60" RenderTransformOrigin="0.5,0.5">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center"    >
+                        <materialDesign:PackIcon Kind="Home" Height="40" Width="40"/>
+                        <TextBlock Text="Home" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center"    >
+                        <materialDesign:PackIcon Kind="SearchWeb"    Height="40" Width="40"/>
+                        <TextBlock Text="Search" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center"    >
+                        <materialDesign:PackIcon Kind="Facebook"  Height="40" Width="40"/>
+                        <TextBlock Text="Facebook" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Twitter"  Height="40" Width="40"/>
+                        <TextBlock Text="Twitter" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center"    >
+                        <materialDesign:PackIcon Kind="Skype"  Height="40" Width="40"/>
+                        <TextBlock Text="Skype" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Twitch"  Height="40" Width="40"/>
+                        <TextBlock Text="Twitch" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+            </ListView>
+        </StackPanel>
+        <Grid x:Name="GridMain" Background="white"  Width="1024" RenderTransformOrigin="0.5,0.5" Margin="5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="250"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1" Background="#FF8A3099" >
+                <Image Height="150" VerticalAlignment="top" Source="Assets/materialDesign1.jpg" Stretch="UniformToFill"/>
+                <Ellipse Height="100" Width=" 100" VerticalAlignment="top" HorizontalAlignment="Right" Margin=" 20,100" >
+                    <Ellipse.Fill >
+                        <ImageBrush ImageSource="Assets/o2256597.png" Stretch="UniformToFill"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock Text="Ahrix" Foreground="White" FontSize="24" FontFamily="Nirmala UI Semilight" Margin="10,110" VerticalAlignment="Top"  ></TextBlock>
+                <StackPanel Margin="0,150">
+                    <Grid Height="60" Margin="10,0,20,0" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="83*"/>
+                            <ColumnDefinition Width="137*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="Programmer" VerticalAlignment="Bottom" Foreground="White"  Margin="5,0,5,5" Height="16" />
+                        <TextBlock Text="huy.ahrix@outlook.com" Grid.Row="1" VerticalAlignment="Top"  Foreground="White"  Margin="5,0" Grid.ColumnSpan="2" Height="16" FontSize="10" ></TextBlock>
+                        <TextBlock Text=".NET" VerticalAlignment="Bottom" Foreground="White"  Margin="5,0,5,5" Grid.ColumnSpan="1"  Grid.Column="1" Height="16"/>
+                    </Grid>
+                    <TextBlock TextWrapping ="Wrap" Margin="10,0" Foreground="White" ><Run Text="If the lessons of history teach us anything it is that nobody learns the lessons that history teaches us."/></TextBlock>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btnOpen" Width ="30" Height="30" Padding="0" Background="Black" VerticalAlignment="Center" HorizontalAlignment="Left"  Click="btnOpen_Click" Margin="5">
+                    <materialDesign:PackIcon Kind="Menu" Foreground="LightGray" />
+                    <Button.Triggers >
+                        <EventTrigger RoutedEvent= "Button.Click">
+                            <BeginStoryboard  Storyboard= "{StaticResource OpenMenu}" >
+                            </BeginStoryboard>
+                        </EventTrigger >
+                    </Button.Triggers>
+                </Button>
+                <Button x:Name="btnClose" Width ="30" Height="30" Padding="0" Background="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Left" Click="btnClose_Click" Margin="5" >
+                    <materialDesign:PackIcon Kind="Menu" Foreground="LightGray" />
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent= "Button.Click">
+                            <BeginStoryboard  Storyboard= "{StaticResource CloseMenu }">
+                            </BeginStoryboard>
+                        </EventTrigger >
+                    </Button.Triggers>
+                </Button>
+                <TextBlock Text="PHOTOS" Foreground="#FF8A3099" FontSize="30" FontWeight="Bold" Grid.Row="1"/>
+                <Grid Margin="5" Grid.Row="2" Grid.Column="0">
+                    <Grid.Effect>
+                        <DropShadowEffect ShadowDepth="1" BlurRadius="20" Color="#FFEEEEEE"/>
+                    </Grid.Effect>
+                    <Image Source="Assets\12904418_p0.jpg" Stretch="UniformToFill" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5">
+                        <materialDesign:PackIcon Kind="Heart" Foreground="white" Margin="0,0,5,0"/>
+                        <TextBlock VerticalAlignment="Bottom" Foreground="White">25</TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Grid Margin="5" Grid.Row="2" Grid.Column="1">
+                    <Grid.Effect>
+                        <DropShadowEffect ShadowDepth="1" BlurRadius="20" Color="#FFEEEEEE"/>
+                    </Grid.Effect>
+                    <Image Source="Assets\1487274688818.jpg" Stretch="UniformToFill" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5">
+                        <materialDesign:PackIcon Kind="Heart" Foreground="white" Margin="0,0,5,0"/>
+                        <TextBlock VerticalAlignment="Bottom" Foreground="White">25</TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Grid Margin="5" Grid.Row="2" Grid.Column="2">
+                    <Grid.Effect>
+                        <DropShadowEffect ShadowDepth="1" BlurRadius="20" Color="#FFEEEEEE"/>
+                    </Grid.Effect>
+                    <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5">
+                        <materialDesign:PackIcon Kind="Heart" Foreground="white" Margin="0,0,5,0"/>
+                        <TextBlock VerticalAlignment="Bottom" Foreground="White">25</TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Grid Margin="5" Grid.Row="3" Grid.Column="0">
+                    <Grid.Effect>
+                        <DropShadowEffect ShadowDepth="1" BlurRadius="20" Color="#FFEEEEEE"/>
+                    </Grid.Effect>
+                    <Image Source="Assets\22885040_p0.jpg" Stretch="UniformToFill" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5">
+                        <materialDesign:PackIcon Kind="Heart" Foreground="white" Margin="0,0,5,0"/>
+                        <TextBlock VerticalAlignment="Bottom" Foreground="White">25</TextBlock>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+        <StackPanel VerticalAlignment="Top" Height=" 40" HorizontalAlignment="Right" Orientation="Horizontal" Margin="10,0">
+            <Button  Width="30" Height="30" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}" >
+                <materialDesign:PackIcon Kind="Settings" />
+            </Button>
+            <Button Width=" 30" Height=" 30" Padding=" 0" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click">
+                <materialDesign:PackIcon Kind="Power"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

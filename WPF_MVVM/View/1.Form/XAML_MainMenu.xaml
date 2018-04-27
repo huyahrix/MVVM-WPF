@@ -1,0 +1,111 @@
+﻿<Window x:Class="View._1.Form.XAML_MainMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:ViewModel.Module;assembly=ViewModel"
+        Title="Intro" Height="600" Width="1024" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.DataContext>
+        <local:AccountVM></local:AccountVM>
+    </Window.DataContext>
+    <Grid Background="{x:Null}">
+        <StackPanel VerticalAlignment="Top">
+            <Grid Height="10" Background="#3366CC">
+            </Grid>
+            <Grid Height="50" Margin="5 0 0 0" Background="#FFD6DFE0">
+                <StackPanel Orientation="Horizontal"  VerticalAlignment="Top" HorizontalAlignment="Right" Height="52" >
+                    <ComboBox FontSize="10" Width="30" Foreground="Gray"  SelectedIndex="0" VerticalAlignment="Center"   HorizontalAlignment="Right" Margin="0 0 5 5">
+                        <ComboBoxItem  Content="EN" />
+                        <ComboBoxItem Content="VI" />
+                    </ComboBox>
+                    <Button Width="30" Height="30" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Gray">
+                        <materialDesign:PackIcon Kind="Settings"  />
+                    </Button>
+                    <Button Width="30" Height="30" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Gray" Click="Button_Click">
+                        <materialDesign:PackIcon Kind="Power"  />
+                    </Button>                  
+                </StackPanel>
+                <StackPanel Margin="250,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center" Orientation="Horizontal"    >
+                    <Button x:Name="Menu" Background="{x:Null}" BorderBrush="{x:Null}" Click="Menu_Click">
+                        <materialDesign:PackIcon Kind="Menu"  Foreground="Gray" Height="20" Width="20"/>
+                    </Button>
+                    <materialDesign:PopupBox PlacementMode="BottomAndAlignRightEdges"  StaysOpen="False" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Gray" ForceCursor="True">
+                        <StackPanel Width="150">
+                            <Button Content="Settings"/>
+                            <Button Content="Account"/>
+                            <Button Content="Help"/>
+                            <Separator/>
+                            <Button Content="Logout"/>
+                        </StackPanel>
+                    </materialDesign:PopupBox>
+                </StackPanel>
+                <StackPanel Margin="250,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                    <TextBlock Margin="10" VerticalAlignment="Center" >Desgin by Huy.ahrix</TextBlock>
+                    <Button Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Margin="10">
+                        <materialDesign:PackIcon Kind="FacebookBox"  Foreground="Gray" Height="30" Width="30" />
+                    </Button>
+                    <Button Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Margin="0 0 10 0">
+                        <materialDesign:PackIcon Kind="Twitter" Foreground ="Gray" Height="30" Width="30"/>
+                    </Button>
+                    <Button Background="{x:Null}" BorderBrush="{x:Null}" Margin="0" Padding="0">
+                        <materialDesign:PackIcon Kind="GithubBox"   Foreground="gray" Height="30" Width="30"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+        <Grid  Margin="250,62,0,0">
+            <Grid x:Name="GridPrincipal" VerticalAlignment="Top"  HorizontalAlignment="Left"    >
+            </Grid>
+        </Grid>
+        <Grid Width="250" HorizontalAlignment="left" Background="#FF222222" >
+            <materialDesign:TransitioningContent x:Name="TransitionContentSlide" OpeningEffect="{materialDesign:TransitionEffect  Kind=SlideInFromTop ,Duration=0:0:1}">
+                <Grid x:Name="GridCursor" Width="5" Height="50" HorizontalAlignment="Left" Background="#3366CC" Margin="0,62,0,0" VerticalAlignment="Top" />
+            </materialDesign:TransitioningContent>
+            <ListView x:Name="ListViewMenu" Margin="0,62,10,80" SelectionChanged="ListViewMenu_SelectionChanged">
+                <ListViewItem Height="50" Margin="5 0 0 0">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                        <materialDesign:PackIcon Kind="Home" Height="30" Width="30" Foreground="Gray"/>
+                        <TextBlock FontSize ="12" Margin=" 10" VerticalAlignment="Center" >Home</TextBlock>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin="5 0 0 0 ">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                        <materialDesign:PackIcon Kind="FoodForkDrink"  Height="30" Width="30" Foreground="Gray"/>
+                        <TextBlock FontSize ="12" Margin=" 10" VerticalAlignment="Center" >Food</TextBlock>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin=" 5 0 0 0">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <materialDesign:PackIcon Kind="FormatListBulleted"   Height="30" Width="30" Foreground="Gray"/>
+                        <TextBlock FontSize ="12" Margin=" 10" VerticalAlignment="Center" >Menu</TextBlock>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin=" 5 0 0 0">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                        <materialDesign:PackIcon Kind="TruckDelivery"  Height="30" Width="30" Foreground="Gray"/>
+                        <TextBlock FontSize ="12" Margin=" 10" VerticalAlignment="Center" >Delivery</TextBlock>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin="5 0 0 0 ">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                        <materialDesign:PackIcon Kind="Cash" Height="30" Width="30" Foreground="Gray"/>
+                        <TextBlock FontSize ="12" Margin=" 10" VerticalAlignment="Center" >Cash</TextBlock>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin="5 0 0 0 ">
+                    <StackPanel Orientation="Horizontal" >
+                        <materialDesign:PackIcon Kind="AccountStar" Foreground="Gray" Width="30" Height="30"/>
+                        <TextBlock Text="Account"  FontSize="12" Margin="12" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="50" Margin="5 0 0 0 ">
+                    <StackPanel Orientation="Horizontal" >
+                        <materialDesign:PackIcon Kind="Instagram"  Foreground="Gray" Width="30" Height="30"/>
+                        <TextBlock Text="Instagram"  FontSize="12" Margin="12" VerticalAlignment="Center" />
+                    </StackPanel>
+                </ListViewItem>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

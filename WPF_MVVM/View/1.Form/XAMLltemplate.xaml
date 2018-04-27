@@ -1,0 +1,15 @@
+﻿<Window x:Class="View._1.Form.XAMLltemplate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:ViewModel.Module;assembly=ViewModel"
+        Title="Intro" Height="600" Width="1024" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.DataContext>
+        <local:AccountVM></local:AccountVM>
+    </Window.DataContext>
+    <Grid>
+        
+    </Grid>
+</Window>

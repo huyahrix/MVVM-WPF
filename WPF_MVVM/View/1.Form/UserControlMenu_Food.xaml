@@ -1,0 +1,237 @@
+﻿<UserControl x:Class="View._1.Form.UserControlMenu_Food"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Height="auto" Width="auto">
+    <!--Height="538" Width="774"-->
+    <Grid Background="{x:Null}" Height="538" Width="774">
+        <materialDesign:TransitioningContent x:Name="TransitionContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft ,Duration=0:0:0.8}" Grid.RowSpan="2">
+            <ScrollViewer   VerticalScrollBarVisibility="Hidden"  >
+                <StackPanel VerticalAlignment="Top">
+                    <Grid Background="{x:Null}" VerticalAlignment="Top">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition  Width="*"/>
+                            <ColumnDefinition  Width="*"/>
+                            <ColumnDefinition  Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Column="0" Margin="10 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="1" Margin="5 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Column="3" Margin="5 15 10 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="1" Grid.Column="0" Margin="10 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="1" Grid.Column="1" Margin="5 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="1" Grid.Column="2" Margin="5 15 10 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="2" Grid.Column="0" Margin="10 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="2" Grid.Column="1" Margin="5 15 5 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                        <Grid Grid.Row ="2" Grid.Column="2" Margin="5 15 10 0" Background="#FFFBE2E2">
+                            <Grid.Effect>
+                                <DropShadowEffect BlurRadius="20" Color="#FF7C3D3D" ShadowDepth="1"/>
+                            </Grid.Effect>
+                            <StackPanel>
+                                <Grid Background="#FF7B4295">
+                                    <TextBlock Text="Natsu Yuki Fuyu Hana " Margin="5 0" Height="20"/>
+                                </Grid>
+                                <Image Source="Assets\anime-1511240906553-7648.jpg" Stretch="UniformToFill" />
+                                <TextBlock TextWrapping="Wrap"  Margin="5">
+                                それはいつもの帰り道
+                                ふいに口数減るから
+                                少しだけど不安になる
+                                君のちょっと斜め後ろ
+                                午後の木漏れ日の中で
+                                君だけをみてる
+                                </TextBlock>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                    <TextBlock Text="R$ 25" HorizontalAlignment="Center" Margin="20" Padding="10" />
+                                    <Button  Width="100" Content="Buy" FontFamily="Champagne &amp;"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </StackPanel>
+            </ScrollViewer>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

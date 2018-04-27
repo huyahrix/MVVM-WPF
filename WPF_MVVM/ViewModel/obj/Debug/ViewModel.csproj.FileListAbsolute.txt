@@ -1,0 +1,65 @@
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe.config
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\MainWindow.baml
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\MainWindow.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\App.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.g.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\App.g.cs
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe.config
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\App.g.cs
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe.config
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\App.g.cs
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\CustomerViewModel.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\ViewModel.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\bin\Debug\Model.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.Properties.Resources.resources
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.csproj.GenerateResource.Cache
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\ViewModel\obj\Debug\ViewModel.pdb

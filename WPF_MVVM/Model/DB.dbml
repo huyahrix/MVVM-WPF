@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SKELETONL3" Class="DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\;Initial Catalog=SKELETONL3;Integrated Security=True" SettingsObjectName="Model.Properties.Settings" SettingsPropertyName="SKELETONL3ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.D90T0001" Member="D90T0001s">
+    <Type Name="D90T0001">
+      <Column Name="AccountID" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="AccountName" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountGroupID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="AccountLevel" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DestinationAccountID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TransferLevel" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="AccountTypeID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="BaseCurrency" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="Balance" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Disabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CreateUserID" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="CreateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="LastModifyUserID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="LastModifyDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="OffAccount" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="ConsoAccountID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="ModuleID" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="StyleOfTranfer" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccountStatus" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccountRemark" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="TCode01ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode02ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode03ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode04ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode05ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode06ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode07ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode08ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode09ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="TCode10ID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="IsMatching" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="IsForex" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="IsStockProvision" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="IsProgress" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="OperatorID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="BankCode" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="BankName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="BranchName" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="BankAddress" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="BankPhone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BankFax" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BankAccountNo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BankAccountName" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="CurrencyID" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="OpenDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CloseDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PrintDetail" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="UseD90" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccountName01" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="PrintOriginalInBS" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccountNameU" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountName01U" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountRemarkU" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="BankNameU" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="BranchNameU" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="BankAddressU" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="BankAccountNameU" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="IseBanking" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="OfficeCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsRevalueExchangeRate" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsAutoVATTrans" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="DebitAccVATTrans" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CreditAccVATTrans" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsGroupCorAccount" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="GainFXAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LossFXAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="StrDivisionID" Type="System.String" DbType="VarChar(8000) NOT NULL" CanBeNull="false" />
+      <Column Name="StrRoleID" Type="System.String" DbType="VarChar(8000) NOT NULL" CanBeNull="false" />
+      <Column Name="ExcessAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DeficiencyAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentGainFXAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PaymentLossFXAccount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsMatchingD03D04" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsMappingAnalysis" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="RecVoucherTypeID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PayVoucherTypeID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountDAG" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

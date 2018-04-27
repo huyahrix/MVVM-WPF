@@ -1,0 +1,12 @@
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\CustomerView.baml
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\CustomerView.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\App.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.pdb

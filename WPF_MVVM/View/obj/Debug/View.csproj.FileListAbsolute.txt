@@ -1,0 +1,122 @@
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe.config
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.pdb
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.baml
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.g.cs
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.g.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.exe
+C:\Users\NGOCHUY\Desktop\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe.config
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe.config
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.baml
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.g.cs
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.g.cs
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View_MarkupCompile.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.g.resources
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.Properties.Resources.resources
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.exe
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.pdb
+D:\NGOCHUY\MY ID\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.g.cs
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.pdb
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe.config
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.baml
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.g.cs
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.g.resources
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\huyah\OneDrive\WPF_MVVM-20180305T145051Z-001\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe.config
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.pdb
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.pdb
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.pdb
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.baml
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.g.cs
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.g.cs
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.g.resources
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.exe
+C:\Users\ADMIN\Downloads\WPF_MVVM\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlMenu2_2.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_AnimationMenu.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_TabMenu.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlMenu2_2.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_AnimationMenu.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_TabMenu.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\CustomerView.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\App.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View_MarkupCompile.cache
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.g.resources
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.Properties.Resources.resources
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.csproj.GenerateResource.Cache
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\CustomerViewModel.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe.config
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.exe
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\View.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\MaterialDesignColors.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.dll
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\ViewModel.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\MaterialDesignColors.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\bin\Debug\Model.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.exe
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\View.pdb
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlIntro.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlIntro.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlMenu_Food.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlMenu_Food.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlShoppingcart.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlShoppingcart.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlTemplate.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAMLltemplate.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlTemplate.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAMLltemplate.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_MainMenu.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_MainMenu.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_NavigationDrawerPopUpMenu.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_NavigationDrawerPopUpMenu.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_People.g.cs
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\XAML_People.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlTableDefine.baml
+E:\NGOCHUY\My Sou\Working MVVM-WPF\WPF_MVVM\View\obj\Debug\1.Form\UserControlTableDefine.g.cs
